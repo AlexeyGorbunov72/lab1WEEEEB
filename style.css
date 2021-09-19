@@ -1,6 +1,19 @@
 #menu ul{
     list-style: none;
   }
-  #menu li{
+#menu li{
     display: inline;
-  }
+}
+
+#header h1 {
+    text-align: center;
+}
+
+#bodyRegularText h3 {
+    text-align: left;
+}
+
+#bodyRegularText ul {
+    display: table;
+    margin: 0 auto;
+}
