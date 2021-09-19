@@ -9,7 +9,7 @@
     text-align: center;
 }
 
-#bodyRegularText h3 {
+#bodyRegularText li h3 {
     text-align: left;
 }
 
@@ -21,6 +21,10 @@
 .center {
     display: flex;
     justify-content: center;
+}
+
+#formulaOfSuccess {
+    text-align: center;
 }
 
 #cowsay {
