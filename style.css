@@ -21,4 +21,8 @@
 .center {
     display: flex;
     justify-content: center;
-    }
+}
+
+#cowsay {
+    text-align: center;
+}
